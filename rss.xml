@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Blue Corn Loom]]></title>
+        <description><![CDATA[Blue Corn Loom]]></description>
+        <link>https://thegrid.ai/blue-corn-loom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Aug 2015 22:46:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 25 Aug 2015 02:15:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blue-corn-loom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fba22d24-0e42-4228-a933-6d02f04313ee.JPG">]]></description>
+            <link>https://thegrid.ai/blue-corn-loom/7392dda6-52a9-4ef1-8c3d-08034874e35e/index.html</link>
+            <guid isPermaLink="false">7392dda6-52a9-4ef1-8c3d-08034874e35e</guid>
+            <pubDate>Tue, 25 Aug 2015 02:15:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76117e9b-cdcc-45c4-b3e2-2a943e4a0371.JPG">]]></description>
